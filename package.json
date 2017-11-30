@@ -1,0 +1,20 @@
+{
+  "name": "js-unit-testing",
+  "version": "1.0.0",
+  "description": "JS unit testing practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://DavinaLSY@bitbucket.org/DavinaLSY/js-unit-testing.git"
+  },
+  "author": "Davina Leong",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/DavinaLSY/js-unit-testing#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
